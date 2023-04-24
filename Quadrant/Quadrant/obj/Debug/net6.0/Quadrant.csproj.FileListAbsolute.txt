@@ -1,0 +1,15 @@
+C:\Users\OMEN\Desktop\CodeWarsC#\Quadrant\Quadrant\bin\Debug\net6.0\Quadrant.exe
+C:\Users\OMEN\Desktop\CodeWarsC#\Quadrant\Quadrant\bin\Debug\net6.0\Quadrant.deps.json
+C:\Users\OMEN\Desktop\CodeWarsC#\Quadrant\Quadrant\bin\Debug\net6.0\Quadrant.runtimeconfig.json
+C:\Users\OMEN\Desktop\CodeWarsC#\Quadrant\Quadrant\bin\Debug\net6.0\Quadrant.dll
+C:\Users\OMEN\Desktop\CodeWarsC#\Quadrant\Quadrant\bin\Debug\net6.0\Quadrant.pdb
+C:\Users\OMEN\Desktop\CodeWarsC#\Quadrant\Quadrant\obj\Debug\net6.0\Quadrant.csproj.AssemblyReference.cache
+C:\Users\OMEN\Desktop\CodeWarsC#\Quadrant\Quadrant\obj\Debug\net6.0\Quadrant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\Desktop\CodeWarsC#\Quadrant\Quadrant\obj\Debug\net6.0\Quadrant.AssemblyInfoInputs.cache
+C:\Users\OMEN\Desktop\CodeWarsC#\Quadrant\Quadrant\obj\Debug\net6.0\Quadrant.AssemblyInfo.cs
+C:\Users\OMEN\Desktop\CodeWarsC#\Quadrant\Quadrant\obj\Debug\net6.0\Quadrant.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\Desktop\CodeWarsC#\Quadrant\Quadrant\obj\Debug\net6.0\Quadrant.dll
+C:\Users\OMEN\Desktop\CodeWarsC#\Quadrant\Quadrant\obj\Debug\net6.0\refint\Quadrant.dll
+C:\Users\OMEN\Desktop\CodeWarsC#\Quadrant\Quadrant\obj\Debug\net6.0\Quadrant.pdb
+C:\Users\OMEN\Desktop\CodeWarsC#\Quadrant\Quadrant\obj\Debug\net6.0\Quadrant.genruntimeconfig.cache
+C:\Users\OMEN\Desktop\CodeWarsC#\Quadrant\Quadrant\obj\Debug\net6.0\ref\Quadrant.dll
