@@ -1,0 +1,15 @@
+C:\Users\OMEN\Desktop\CodeWarsC#\TotalAmountOfPoints\TotalAmountOfPoints\bin\Debug\net6.0\TotalAmountOfPoints.exe
+C:\Users\OMEN\Desktop\CodeWarsC#\TotalAmountOfPoints\TotalAmountOfPoints\bin\Debug\net6.0\TotalAmountOfPoints.deps.json
+C:\Users\OMEN\Desktop\CodeWarsC#\TotalAmountOfPoints\TotalAmountOfPoints\bin\Debug\net6.0\TotalAmountOfPoints.runtimeconfig.json
+C:\Users\OMEN\Desktop\CodeWarsC#\TotalAmountOfPoints\TotalAmountOfPoints\bin\Debug\net6.0\TotalAmountOfPoints.dll
+C:\Users\OMEN\Desktop\CodeWarsC#\TotalAmountOfPoints\TotalAmountOfPoints\bin\Debug\net6.0\TotalAmountOfPoints.pdb
+C:\Users\OMEN\Desktop\CodeWarsC#\TotalAmountOfPoints\TotalAmountOfPoints\obj\Debug\net6.0\TotalAmountOfPoints.csproj.AssemblyReference.cache
+C:\Users\OMEN\Desktop\CodeWarsC#\TotalAmountOfPoints\TotalAmountOfPoints\obj\Debug\net6.0\TotalAmountOfPoints.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\Desktop\CodeWarsC#\TotalAmountOfPoints\TotalAmountOfPoints\obj\Debug\net6.0\TotalAmountOfPoints.AssemblyInfoInputs.cache
+C:\Users\OMEN\Desktop\CodeWarsC#\TotalAmountOfPoints\TotalAmountOfPoints\obj\Debug\net6.0\TotalAmountOfPoints.AssemblyInfo.cs
+C:\Users\OMEN\Desktop\CodeWarsC#\TotalAmountOfPoints\TotalAmountOfPoints\obj\Debug\net6.0\TotalAmountOfPoints.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\Desktop\CodeWarsC#\TotalAmountOfPoints\TotalAmountOfPoints\obj\Debug\net6.0\TotalAmountOfPoints.dll
+C:\Users\OMEN\Desktop\CodeWarsC#\TotalAmountOfPoints\TotalAmountOfPoints\obj\Debug\net6.0\refint\TotalAmountOfPoints.dll
+C:\Users\OMEN\Desktop\CodeWarsC#\TotalAmountOfPoints\TotalAmountOfPoints\obj\Debug\net6.0\TotalAmountOfPoints.pdb
+C:\Users\OMEN\Desktop\CodeWarsC#\TotalAmountOfPoints\TotalAmountOfPoints\obj\Debug\net6.0\TotalAmountOfPoints.genruntimeconfig.cache
+C:\Users\OMEN\Desktop\CodeWarsC#\TotalAmountOfPoints\TotalAmountOfPoints\obj\Debug\net6.0\ref\TotalAmountOfPoints.dll
