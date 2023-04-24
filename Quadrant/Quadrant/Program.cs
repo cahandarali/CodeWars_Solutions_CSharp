@@ -2,10 +2,7 @@
 {
     internal class Program
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello, World!");
-        }
+        //Basic function which will look where x and y is placed and will return you in which quadrant you are now
         public static int Quadrant(int x, int y)
         {
             if (x > 0 && y > 0)
